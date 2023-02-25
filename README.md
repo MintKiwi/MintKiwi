@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Have a good one!&center=true&size=27" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Have\x20a%2C%20good%2C%20one!&center=true&size=27" />
     </a>
   </div>
  
