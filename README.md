@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </div>
  
  
-<img align="right" align="top" top='120' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="580"/>  
+<img align="right" align="top" top='120' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillakiwi&layout=compact)](https://github.com/vanillakiwi/github-readme-stats)
 
