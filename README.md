@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Have\x20a%2C%20good%2C%20one!&center=true&size=27" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Have%20a%20good%20day!&center=true&size=27" />
     </a>
   </div>
  
  
-<img align="right" top='120' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="580"/>  
+<img align="right" align="top" top='120' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="580"/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillakiwi&layout=compact)](https://github.com/vanillakiwi/github-readme-stats)
 
