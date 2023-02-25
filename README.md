@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillakiwi&layout=compact)](https://github.com/vanillakiwi/github-readme-stats)
-![decription](https://github.com/tzy13755126023/tzy13755126023/blob/master/github-contribution-grid-snake.svg）
+https://github.com/tzy13755126023/tzy13755126023/blob/master/github-contribution-grid-snake.svg
