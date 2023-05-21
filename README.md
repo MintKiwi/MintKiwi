@@ -1,7 +1,7 @@
 
 
 <!--
-**vanillakiwi/vanillakiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MintKiwi/MintKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 <img align="right" align="top" top='120' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillakiwi&layout=compact)](https://github.com/vanillakiwi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintKiwi&layout=compact)](https://github.com/MintKiwi/github-readme-stats)
 
 
 
